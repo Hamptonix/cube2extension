@@ -1,1 +1,10 @@
-
+{
+  "name": "Cube 2",
+  "description": "Fun Cube Platformer made by Hamptonix",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "game.html",
+    "default_icon": "icon.jpg"
+  }
+}
